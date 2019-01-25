@@ -1,0 +1,10 @@
+C:\Users\somnath\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\somnath\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\somnath\source\repos\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\somnath\source\repos\Calc1\Calc1\bin\Debug\nunit.framework.dll
+C:\Users\somnath\source\repos\Calc1\Calc1\bin\Debug\nunit.framework.xml
+C:\Users\somnath\source\repos\Calc1\Calc1\obj\Debug\Calc1.csprojAssemblyReference.cache
+C:\Users\somnath\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\somnath\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.CopyComplete
+C:\Users\somnath\source\repos\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\somnath\source\repos\Calc1\Calc1\obj\Debug\Calc1.pdb
