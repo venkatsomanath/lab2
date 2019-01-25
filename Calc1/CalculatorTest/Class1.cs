@@ -81,7 +81,7 @@ namespace CalculatorTest
             public void GetSubtraction_Input6and1_Returns5()
             { //Arrange
                 double number1 = 6;
-                double number2 = 1;
+                double number2 = 5;
                 double expectedResult = number1 - number2;
                 Calc testCalc = new Calc(number1, number2);
                 //Act
