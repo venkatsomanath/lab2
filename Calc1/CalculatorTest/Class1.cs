@@ -78,9 +78,9 @@ namespace CalculatorTest
                 Assert.AreEqual(expectedResult, actualResult);
             }
             [Test]
-            public void GetSubtraction_Input6and5_Returns1()
+            public void GetSubtraction_Input10and5_Returns5()
             { //Arrange
-                double number1 = 6;
+                double number1 = 10;
                 double number2 = 5;
                 double expectedResult = number1 - number2;
                 Calc testCalc = new Calc(number1, number2);
